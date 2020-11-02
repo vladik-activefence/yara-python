@@ -1,3 +1,0 @@
-[submodule "yara"]
-path = yara	
-url=https://github.com/vladik-activefence/yara.git
